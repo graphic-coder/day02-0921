@@ -1,0 +1,26 @@
+body {
+  color: white;
+  font-size: 8pt;
+}
+table {
+  text-align: center;
+}
+input {
+  background-color: greenyellow;
+  text-align: center;
+}
+.first-line {
+  background-color: deeppink;
+}
+.list {
+  background-color: blueviolet;
+}
+.last-td {
+  background-color: yellow;
+}
+#complete {
+  background-color: deeppink;
+  color: white;
+  border: 0px;
+  font-size: 9pt;
+}
